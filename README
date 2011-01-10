@@ -1,0 +1,5 @@
+Fn.php: a simple library that makes PHP 5.3+ more functional.
+
+A bit of background is in this post: http://sigusr2.net/2009/Feb/06/higher-order-php.html
+
+This has not been touched since.
